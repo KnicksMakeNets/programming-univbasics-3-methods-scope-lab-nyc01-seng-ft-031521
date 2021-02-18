@@ -1,6 +1,6 @@
 
-def mario(status)
-  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
+def mario
+  phrase = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts phrase
 end
 
